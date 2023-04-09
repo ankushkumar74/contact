@@ -16,6 +16,11 @@ function App() {
       name:"sdjksjd",
       email:"ajsdjdk@gmail.com",
     },
+    {
+      id:"3",
+      name:"jay",
+      email:"jay@gmail.com",
+    },
   ];
   return (
     <div className="ui container">
